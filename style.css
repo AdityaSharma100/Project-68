@@ -1,0 +1,22 @@
+body {
+text-align: center;
+background-image: url("polygon-material-design-abstract-3d-wallpaper-preview.jpg");
+background repeat: no-repeat;
+}
+.my_nav_bar {
+position: sticky;
+top: 0;
+z-index: 99999;
+}
+img {
+width: 900px;
+height: 500px;
+}
+<h1> {
+font-size: 40px;
+color: white;
+}
+<h2> {
+font-size: 40px;
+color: white;
+}
